@@ -1,2 +1,2 @@
 # 2010661-Tópicos Avanzados de Estadística
-Github personal para el curso de Tópicos Avanzados de Estadística (Ciencia de datos)
+Github para la entrega de tareas del curso Tópicos Avanzados de Estadística (Ciencia de datos)
